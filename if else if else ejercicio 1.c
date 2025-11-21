@@ -1,4 +1,4 @@
-//Realizar un programa que lea el precio de una entrada y edad del usuario. Si el usuario es menor de 16 años tiene un 40% de descuento. Informar el descuento y el total a pagar
+//Realizar un programa que lea el precio de una entrada y edad del usuario. Si el usuario es menor de 16 aÃ±os tiene un 40% de descuento. Informar el descuento y el total a pagar
 #include <stdio.h>
 float entrada, total;
 int edad, desc;
